@@ -1,4 +1,7 @@
-# pablo
+#pablo
 
-ue
-![](https://tenor.com/pt-BR/view/milk-and-mocha-hug-cute-kawaii-love-gif-12535134)
+Meu nome é Pablo <3
+
+Sou estudando do alura <3
+
+Minha conta do  [alura] (https://cursos.alura.com.br/user/pablo-miguel-oliveira
